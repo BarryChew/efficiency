@@ -1,0 +1,59 @@
+::selection {
+  background: #51CAF2; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #51CAF2; /* Gecko Browsers */
+}
+
+
+h1 {
+  font-size: 1px;
+}
+.container {
+  padding-top: 1px;
+  padding-left:0px;
+}
+
+.span4 {
+ max-width: 350px
+}
+.span8 {
+  max-width: 850px;
+  padding-left: 1px;
+  
+  
+}
+.tab-content {
+  padding-left: 1px;
+  margin-left: 1px;
+}
+.btn-primary {
+  
+}
+
+
+body {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 180px;
+ 
+}
+
+ .btn {
+  position: relative;
+   float: right;
+   margin:10px;
+}
+
+.form-actions {
+  position: fixed;
+  bottom: 0;
+  right: 100px;
+  width: 200px;
+  background-color: white;
+}
+
+.pro_status {
+  position: relativ;
+}
