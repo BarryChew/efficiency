@@ -53,6 +53,7 @@ body {
   width: 200px;
   background-color: white;
   opacity: 0.8;
+  border-radius: 5px;
 }
 
 h5 {
@@ -62,4 +63,5 @@ h5 {
   color: white;
   border-radius: 5px;
   line-height: 30px;
+  
 }
