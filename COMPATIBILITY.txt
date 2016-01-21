@@ -1,0 +1,3 @@
+This software works with all GoCart software (Backend) CMS. 
+It is more compatible for older versions (v2, v3) of GoCart software as it is heavily tested. 
+Athough there are still certain bugs in the software, all you have to do is to install Styler software for Chrome or other browsers. 
